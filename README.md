@@ -1,7 +1,11 @@
-# NTU_contact_lens
+# NTU_project
 Pressure measuring through contact lenses
 
 ## Requirements
+pytorch 1.4.0 (conda)
+torchvision 0.5.0 (conda)
+pretrainmodels 0.7.4 (pip)
+scikit-image 0.17.2 (pip)
 
 ## Usage
 ```python
