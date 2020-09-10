@@ -1,5 +1,5 @@
 # NTU_project
-Pressure measuring through contact lenses
+Pressure measuring
 
 ## Requirements
 pytorch 1.4.0 (conda)
